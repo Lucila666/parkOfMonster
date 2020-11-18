@@ -1,0 +1,32 @@
+body{
+    background-color:#F5CBA7;
+}
+footer{
+    background-color: #CA6F1E;
+    align-content: center;
+    color: white;
+    text-align: center;
+}
+h1{
+    color: rgb(241, 237, 237);
+}
+.jumbotron{
+    background-color:#CA6F1E;
+    color: rgb(188, 202, 207);
+    text-align: center;
+}
+p{
+    color:rgb(8, 8, 8);
+}
+.breadcrumb-item{
+    text-align: center;
+    font: size 500;
+}
+.botones{
+    text-align: center;
+    font-size: x-large;
+}
+.izquierda{
+    background-color:#0000;
+}
+#i
